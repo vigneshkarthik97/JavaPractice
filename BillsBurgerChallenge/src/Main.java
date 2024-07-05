@@ -11,5 +11,6 @@ public class Main {
 
         MealOrder thirdMeal= new MealOrder("Deluxe","Coke","chilli");
         System.out.println("Hi");
+        System.out.println("Hello");
     }
 }
